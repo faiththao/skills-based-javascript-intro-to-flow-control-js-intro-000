@@ -1,7 +1,7 @@
 function basicTeenager(age) {
+  return ("You are a teenager!")
+
   if (age === '13-19')
-    return ("You are a teenager!")
-    else ("You are not a teenasger")
 }
 
 function teenager(age) {
